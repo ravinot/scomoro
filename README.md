@@ -11,7 +11,7 @@ Not a serious productivity tool. Just a pomodoro timer with the bit.
 
 ## How it works
 
-- **Get to work, mate** starts a 25-minute focus block by default. The ring drains gold as it counts down, and the browser tab title updates live with the time remaining.
+- The **GET TO WORK, MATE** button starts a 25-minute focus block by default. The ring drains gold as it counts down, and the browser tab title updates live with the time remaining.
 - The **FOCUS / BREAK pill** next to the session counter shows which phase you're in. It's not static — when a focus block finishes (a two-tone chime plays), it automatically flips to **BREAK**, the pill and ring switch to coral, and the button label changes to "She'll be right, have a break." Finish the break and it flips straight back to FOCUS. The timer always pauses between phases rather than auto-continuing — you start each one yourself.
 - **ScoMoro #1** is a running count of completed focus blocks, not just a decoration — it increments by one every time a focus session finishes and hands over to a break. Hitting **Reset** stops the timer and takes both the phase and the counter back to Focus #1.
 - The **Focus, min** / **Break, min** steppers under the buttons adjust the length of each phase (focus in 5-minute steps from 5–60, break in 1-minute steps from 1–30) — changes apply immediately if you're editing the phase currently showing, and take effect next time otherwise. They're locked while the timer is running, so you can't change the length mid-countdown.
@@ -89,9 +89,7 @@ Follows your system preference by default. The toggle badge in the top-right cor
 
 ## Image sources & licensing
 
-This is a personal, non-commercial project — not something distributed or promoted for others to use — and the two photo/image assets reflect that:
+This is a personal, non-commercial project — not something I expect to be distributed. The two photo/image assets reflect that:
 
 - **`images/scomo-holiday.jpg`** — Scott Morrison, cropped from a press photograph. Source: [thenewdaily.com.au](https://www.thenewdaily.com.au/news/politics/australian-politics/2021/04/22/scott-morrison-not-my-job)
 - **`images/palm-trees.png`** — Palm tree illustration, an unlicensed watermarked preview kept intentionally as a placeholder rather than purchased. Source: [freepik.com](https://www.freepik.com/vectors/palm-tree-cartoon)
-
-These two files should be swapped out or removed first. Everything else in the repo (fonts, code) is fine to reuse or make public as-is.
