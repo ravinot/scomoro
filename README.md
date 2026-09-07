@@ -4,9 +4,8 @@ A Scott Morrison–themed Pomodoro timer. Simple concept: standard 25-minute foc
 
 Not a serious productivity tool. Just a pomodoro timer with the bit.
 
-<p>
+<p align="center">
   <img src="screenshots/preview-dark.jpg" alt="ScoMoro in dark mode" width="49%">
-  <img src="screenshots/preview-light.jpg" alt="ScoMoro in light mode" width="49%">
 </p>
 
 ## How it works
